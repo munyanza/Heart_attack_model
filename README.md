@@ -1,5 +1,5 @@
 # Heart_attack_model
-
+# Trained using Sckit-Learn 
 # Heart Attack Prediction using Machine Learning
 
 This project applies supervised machine learning algorithms to predict the likelihood of a heart attack based on patient health indicators such as age, cholesterol, blood pressure, and other clinical features.
